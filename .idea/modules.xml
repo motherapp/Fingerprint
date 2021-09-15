@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Fingerprint.iml" filepath="$PROJECT_DIR$/Fingerprint.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/fingerprint/fingerprint.iml" filepath="$PROJECT_DIR$/fingerprint/fingerprint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Fingerprint.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Fingerprint.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fingerprint/Fingerprint.fingerprint.iml" filepath="$PROJECT_DIR$/.idea/modules/fingerprint/Fingerprint.fingerprint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Libs.Fingerprint.iml" filepath="$PROJECT_DIR$/.idea/modules/Libs.Fingerprint.iml" />
     </modules>
   </component>
 </project>

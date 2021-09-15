@@ -13,7 +13,7 @@
         android:paddingTop="24dp"
         android:paddingBottom="16dp">
 
-        <android.support.v7.widget.AppCompatTextView
+        <androidx.appcompat.widget.AppCompatTextView
             android:id="@+id/fingerprint_dialog_title"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -21,7 +21,7 @@
             android:textColor="?android:attr/textColorPrimary"
             android:textAppearance="@android:style/TextAppearance.Material.Large"/>
 
-        <android.support.v7.widget.AppCompatTextView
+        <androidx.appcompat.widget.AppCompatTextView
             android:id="@+id/fingerprint_dialog_message"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -39,7 +39,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"/>
 
-            <android.support.v7.widget.AppCompatTextView
+            <androidx.appcompat.widget.AppCompatTextView
                 android:id="@+id/fingerprint_dialog_status"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -60,7 +60,7 @@
         android:paddingTop="8dp"
         android:paddingBottom="8dp">
 
-        <android.support.v7.widget.AppCompatButton
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/fingerprint_dialog_cancel"
             style="?attr/buttonBarButtonStyle"
             android:layout_width="wrap_content"
@@ -70,7 +70,7 @@
             android:paddingEnd="8dp"
             android:layout_alignParentEnd="true"/>
 
-        <android.support.v7.widget.AppCompatButton
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/fingerprint_dialog_use_password"
             style="?attr/buttonBarButtonStyle"
             android:layout_width="wrap_content"

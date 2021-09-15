@@ -1,8 +1,8 @@
 package me.aflak.fingerprintdialoglibrary;
 
 import android.os.Bundle;
-import android.support.annotation.Nullable;
-import android.support.v7.app.AppCompatActivity;
+import androidx.annotation.Nullable;
+import androidx.appcompat.app.AppCompatActivity;
 
 import me.aflak.libraries.callback.FingerprintCallback;
 import me.aflak.libraries.view.Fingerprint;
