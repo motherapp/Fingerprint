@@ -13,7 +13,7 @@ ext {
     siteUrl = 'https://github.com/omaraflak/Fingerprint'
     gitUrl = 'https://github.com/omaraflak/Fingerprint.git'
 
-    libraryVersion = '2.5.3'
+    libraryVersion = '2.5.4'
 
     developerId = 'omaflak'
     developerName = 'Omar Aflak'
